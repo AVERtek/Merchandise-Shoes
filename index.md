@@ -1,4 +1,4 @@
-### Equipment Name & Model Here <!-- Loads <model-viewer> for old browsers like IE11: -->
+### Merchandise Name & Model Here <!-- Loads <model-viewer> for old browsers like IE11: -->
   <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
 
@@ -18,7 +18,7 @@
   <!-- OPTIONAL: Include prismatic.js for Magic Leap support -->
   <!--<script src="https://unpkg.com/@magicleap/prismatic/prismatic.min.js"></script>-->
 
-<model-viewer id="reveal" loading="eager" src="Models/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Treadmill_3D_Model.usdz" alt="Equipment-Treadmill" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls="" style="width: 95%; height: 500px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+<model-viewer id="reveal" loading="eager" src="Models/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Updated_90s_Nostalgia_RTFKTChallenge_RTFKT.usdz" alt="Merchandise-Shoes" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls="" style="width: 95%; height: 500px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
       👋 AR Click Here
   </button>
 </model-viewer>
