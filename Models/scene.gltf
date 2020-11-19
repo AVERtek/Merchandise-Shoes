@@ -3,236 +3,56 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 65534,
+      "count": 10029,
       "max": [
-        1586.147216796875,
-        1889.199462890625,
-        650.0010986328125
+        4.3334088325500488,
+        12.530361175537109,
+        2.0002849102020264
       ],
       "min": [
-        -1507.1817626953125,
-        -68.601127624511719,
-        -552.01361083984375
+        -3.6914639472961426,
+        8.5789451599121094,
+        -1.8689769506454468
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 786408,
+      "byteOffset": 120348,
       "componentType": 5126,
-      "count": 65534,
+      "count": 10029,
       "max": [
-        0.99999958276748657,
-        0.99999803304672241,
-        1
+        0.99898749589920044,
+        0.99988263845443726,
+        0.99991512298583984
       ],
       "min": [
-        -0.99996912479400635,
-        -0.9999961256980896,
-        -1
+        -0.99949038028717041,
+        -0.99970221519470215,
+        -0.99999350309371948
       ],
       "type": "VEC3"
     },
     {
-      "bufferView": 3,
-      "componentType": 5126,
-      "count": 65534,
-      "max": [
-        0.9999963641166687,
-        0.99999922513961792,
-        0.99999815225601196,
-        1
-      ],
-      "min": [
-        -0.99997609853744507,
-        -0.99998682737350464,
-        -0.99999815225601196,
-        -1
-      ],
-      "type": "VEC4"
-    },
-    {
       "bufferView": 1,
       "componentType": 5126,
-      "count": 65534,
+      "count": 10029,
       "max": [
-        0.99774855375289917,
-        0.99785137176513672
+        0.93707001209259033,
+        0.99804002046585083
       ],
       "min": [
-        0.0035125035792589188,
-        0.0049337130039930344
+        0.0019499999471008778,
+        0.0019499999471008778
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
       "componentType": 5125,
-      "count": 284460,
+      "count": 59982,
       "max": [
-        65533
-      ],
-      "min": [
-        0
-      ],
-      "type": "SCALAR"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 1572816,
-      "componentType": 5126,
-      "count": 65532,
-      "max": [
-        712.804443359375,
-        1435.4410400390625,
-        548.808349609375
-      ],
-      "min": [
-        -1373.0806884765625,
-        303.17813110351562,
-        -361.22549438476562
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 2359200,
-      "componentType": 5126,
-      "count": 65532,
-      "max": [
-        0.99992376565933228,
-        0.99988311529159546,
-        0.99999761581420898
-      ],
-      "min": [
-        -0.99947482347488403,
-        -0.99997508525848389,
-        -0.99998682737350464
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 3,
-      "byteOffset": 1048544,
-      "componentType": 5126,
-      "count": 65532,
-      "max": [
-        0.99942135810852051,
-        0.99984133243560791,
-        0.99991589784622192,
-        1
-      ],
-      "min": [
-        -0.99998831748962402,
-        -0.99994659423828125,
-        -0.99999451637268066,
-        -1
-      ],
-      "type": "VEC4"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 524272,
-      "componentType": 5126,
-      "count": 65532,
-      "max": [
-        0.91741383075714111,
-        0.9010012149810791
-      ],
-      "min": [
-        0.024784678593277931,
-        0.0024006348103284836
-      ],
-      "type": "VEC2"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 1137840,
-      "componentType": 5125,
-      "count": 115161,
-      "max": [
-        65531
-      ],
-      "min": [
-        0
-      ],
-      "type": "SCALAR"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 3145584,
-      "componentType": 5126,
-      "count": 6699,
-      "max": [
-        699.60333251953125,
-        1883.05029296875,
-        549.3428955078125
-      ],
-      "min": [
-        -1373.0806884765625,
-        302.05224609375,
-        -337.09750366210938
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 3225972,
-      "componentType": 5126,
-      "count": 6699,
-      "max": [
-        0.99874299764633179,
-        0.99988836050033569,
-        0.99993997812271118
-      ],
-      "min": [
-        -0.99920958280563354,
-        -0.99999690055847168,
-        -0.99996328353881836
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 3,
-      "byteOffset": 2097056,
-      "componentType": 5126,
-      "count": 6699,
-      "max": [
-        0.99996501207351685,
-        0.99996477365493774,
-        0.99949026107788086,
-        1
-      ],
-      "min": [
-        -0.99993520975112915,
-        -0.99990534782409668,
-        -0.99894827604293823,
-        1
-      ],
-      "type": "VEC4"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 1048528,
-      "componentType": 5126,
-      "count": 6699,
-      "max": [
-        0.81314432621002197,
-        0.90516197681427002
-      ],
-      "min": [
-        0.024586105719208717,
-        0.03861546516418457
-      ],
-      "type": "VEC2"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 1598484,
-      "componentType": 5125,
-      "count": 37206,
-      "max": [
-        6698
+        10028
       ],
       "min": [
         0
@@ -242,83 +62,60 @@
   ],
   "asset": {
     "extras": {
-      "author": "Eduardo Kuhn (https://sketchfab.com/eduardokuhn)",
-      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/updated-90s-nostalgia-rtfktchallenge-rtfkt-e756980d5067488d9b0284ecf6d6797c",
-      "title": "(Updated) 90's Nostalgia #RTFKTChallenge RTFKT"
+      "author": "Przemek Gesicki - DigitWorlds (https://sketchfab.com/lunar11)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/brooks-shoe-by-digitworldscom-d378a44d52434b61983dbc3c842b73a1",
+      "title": "Brooks Shoe by DigitWorlds.com"
     },
-    "generator": "Sketchfab-9.37.0",
+    "generator": "Sketchfab-9.39.0",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 1747308,
+      "byteLength": 239928,
       "byteOffset": 0,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 1102120,
-      "byteOffset": 1747308,
+      "byteLength": 80232,
+      "byteOffset": 239928,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 3306360,
-      "byteOffset": 2849428,
+      "byteLength": 240696,
+      "byteOffset": 320160,
       "byteStride": 12,
-      "name": "floatBufferViews",
-      "target": 34962
-    },
-    {
-      "buffer": 0,
-      "byteLength": 2204240,
-      "byteOffset": 6155788,
-      "byteStride": 16,
       "name": "floatBufferViews",
       "target": 34962
     }
   ],
   "buffers": [
     {
-      "byteLength": 8360028,
+      "byteLength": 560856,
       "uri": "scene.bin"
     }
   ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
   "images": [
     {
-      "uri": "textures/Shoes_baseColor.jpeg"
-    },
-    {
-      "uri": "textures/Shoes_metallicRoughness.png"
-    },
-    {
-      "uri": "textures/Shoes_normal.jpeg"
+      "uri": "textures/142_20K_baseColor.jpeg"
     }
   ],
   "materials": [
     {
       "doubleSided": true,
-      "emissiveFactor": [
-        0,
-        0,
-        0
-      ],
-      "name": "Shoes",
-      "normalTexture": {
-        "index": 2,
-        "scale": 1,
-        "texCoord": 0
+      "extensions": {
+        "KHR_materials_unlit": {}
       },
-      "occlusionTexture": {
-        "index": 1,
-        "strength": 1,
-        "texCoord": 0
-      },
+      "name": "142_20K",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
           1,
@@ -330,59 +127,21 @@
           "index": 0,
           "texCoord": 0
         },
-        "metallicFactor": 1,
-        "metallicRoughnessTexture": {
-          "index": 1,
-          "texCoord": 0
-        },
+        "metallicFactor": 0,
         "roughnessFactor": 1
       }
     }
   ],
   "meshes": [
     {
-      "name": "Shoes_Shoes_0",
       "primitives": [
         {
           "attributes": {
             "NORMAL": 1,
             "POSITION": 0,
-            "TANGENT": 2,
-            "TEXCOORD_0": 3
+            "TEXCOORD_0": 2
           },
-          "indices": 4,
-          "material": 0,
-          "mode": 4
-        }
-      ]
-    },
-    {
-      "name": "Shoes_Shoes_0",
-      "primitives": [
-        {
-          "attributes": {
-            "NORMAL": 6,
-            "POSITION": 5,
-            "TANGENT": 7,
-            "TEXCOORD_0": 8
-          },
-          "indices": 9,
-          "material": 0,
-          "mode": 4
-        }
-      ]
-    },
-    {
-      "name": "Shoes_Shoes_0",
-      "primitives": [
-        {
-          "attributes": {
-            "NORMAL": 11,
-            "POSITION": 10,
-            "TANGENT": 12,
-            "TEXCOORD_0": 13
-          },
-          "indices": 14,
+          "indices": 3,
           "material": 0,
           "mode": 4
         }
@@ -406,57 +165,35 @@
       "children": [
         2
       ],
+      "matrix": [
+        -0.96261399984359741,
+        -0.1927044689655304,
+        -0.19036613404750824,
+        0,
+        0.22173026204109192,
+        -0.96424919366836548,
+        -0.14511783421039581,
+        0,
+        -0.15559554100036621,
+        -0.18190239369869232,
+        0.97092819213867188,
+        0,
+        -1.7681529521942139,
+        21.659351348876953,
+        1.9173452854156494,
+        1
+      ],
       "name": "RootNode (model correction matrix)"
     },
     {
       "children": [
         3
       ],
-      "matrix": [
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        -1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1
-      ],
-      "name": "ba7c68b66c1f407e99734aeceb046d88.fbx"
-    },
-    {
-      "children": [
-        4
-      ],
-      "name": "RootNode"
-    },
-    {
-      "children": [
-        5,
-        6,
-        7
-      ],
-      "name": "Shoes"
+      "name": "1,42 20K.obj.cleaner.materialmerger.gles"
     },
     {
       "mesh": 0,
-      "name": "Shoes_Shoes_0"
-    },
-    {
-      "mesh": 1,
-      "name": "Shoes_Shoes_0"
-    },
-    {
-      "mesh": 2,
-      "name": "Shoes_Shoes_0"
+      "name": ""
     }
   ],
   "samplers": [
@@ -480,14 +217,6 @@
     {
       "sampler": 0,
       "source": 0
-    },
-    {
-      "sampler": 0,
-      "source": 1
-    },
-    {
-      "sampler": 0,
-      "source": 2
     }
   ]
 }
